@@ -46,3 +46,17 @@
 /* Phone
 --------------------------------------------- */
 @media (min-width: 479px) {}
+
+/* Change Sticky Form Placeholder Font Color
+--------------------------------------------- */
+
+.sticky-nav .stickyform form .form-group input::placeholder {
+    color: #;
+}
+
+/* Change Sticky Form Font Color in Dropdown / Select Box
+--------------------------------------------- */
+
+.sticky-nav .stickyform form .form-group select {
+    color: #;
+}
